@@ -2,6 +2,7 @@
   "name": "goit-react-hw-09-practic",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://novosadnazar.github.io/goit-react-hw-09-practic/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
